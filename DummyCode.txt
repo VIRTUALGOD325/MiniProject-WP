@@ -1,0 +1,116 @@
+    <!--<script>
+        function validateForm() {
+            var x = document.forms["myform"]["username"].value;
+            if (x == "") {
+                alert("Details must be filled out");
+            }
+            else if (x == ""){
+                window.alert("Logging in!");
+                window.open(dashbord.html);
+            }
+        }
+    </script>-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
